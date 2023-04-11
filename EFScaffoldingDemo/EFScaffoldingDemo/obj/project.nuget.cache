@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "b9QXxK6VYEiORZx424LssX57zA5px/OeZ5Z574okEl5FWp+h4/hli5+5wr+7trqDECpEU0L3p0+DuA41CcuUHQ==",
+  "dgSpecHash": "35Ei6TEEdUEmDccDFtEBswHjyoxJ3/QiJO7mvFvPEJsxLg1E5R6xf6IEXCuDN5YP8dbo/8p/1yqwBCC4SXEIrQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Niki\\source\\repos\\EFScaffoldingDemo\\EFScaffoldingDemo\\EFScaffoldingDemo.csproj",
+  "projectFilePath": "C:\\Users\\Niki\\source\\repos\\SoftUni-Entity-Framework\\EFScaffoldingDemo\\EFScaffoldingDemo\\EFScaffoldingDemo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Niki\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Niki\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
@@ -33,6 +33,7 @@
     "C:\\Users\\Niki\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Niki\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\Niki\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\Niki\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\Niki\\.nuget\\packages\\system.collections.immutable\\6.0.0\\system.collections.immutable.6.0.0.nupkg.sha512",
     "C:\\Users\\Niki\\.nuget\\packages\\system.configuration.configurationmanager\\4.7.0\\system.configuration.configurationmanager.4.7.0.nupkg.sha512",
     "C:\\Users\\Niki\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",

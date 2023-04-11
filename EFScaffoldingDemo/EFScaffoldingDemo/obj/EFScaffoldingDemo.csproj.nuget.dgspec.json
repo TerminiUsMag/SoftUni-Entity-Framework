@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Niki\\source\\repos\\EFScaffoldingDemo\\EFScaffoldingDemo\\EFScaffoldingDemo.csproj": {}
+    "C:\\Users\\Niki\\source\\repos\\SoftUni-Entity-Framework\\EFScaffoldingDemo\\EFScaffoldingDemo\\EFScaffoldingDemo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Niki\\source\\repos\\EFScaffoldingDemo\\EFScaffoldingDemo\\EFScaffoldingDemo.csproj": {
+    "C:\\Users\\Niki\\source\\repos\\SoftUni-Entity-Framework\\EFScaffoldingDemo\\EFScaffoldingDemo\\EFScaffoldingDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Niki\\source\\repos\\EFScaffoldingDemo\\EFScaffoldingDemo\\EFScaffoldingDemo.csproj",
+        "projectUniqueName": "C:\\Users\\Niki\\source\\repos\\SoftUni-Entity-Framework\\EFScaffoldingDemo\\EFScaffoldingDemo\\EFScaffoldingDemo.csproj",
         "projectName": "EFScaffoldingDemo",
-        "projectPath": "C:\\Users\\Niki\\source\\repos\\EFScaffoldingDemo\\EFScaffoldingDemo\\EFScaffoldingDemo.csproj",
+        "projectPath": "C:\\Users\\Niki\\source\\repos\\SoftUni-Entity-Framework\\EFScaffoldingDemo\\EFScaffoldingDemo\\EFScaffoldingDemo.csproj",
         "packagesPath": "C:\\Users\\Niki\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Niki\\source\\repos\\EFScaffoldingDemo\\EFScaffoldingDemo\\obj\\",
+        "outputPath": "C:\\Users\\Niki\\source\\repos\\SoftUni-Entity-Framework\\EFScaffoldingDemo\\EFScaffoldingDemo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Niki\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -59,6 +59,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[6.0.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
             }
           },
           "imports": [
