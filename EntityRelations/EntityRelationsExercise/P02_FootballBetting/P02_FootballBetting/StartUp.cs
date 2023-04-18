@@ -1,8 +1,13 @@
-﻿namespace P02_FootballBetting;
-    internal class StartUp
+﻿using P02_FootballBetting.Data;
+
+namespace P02_FootballBetting;
+internal class StartUp
+{
+    static void Main(string[] args)
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello, World!");
-        }
+        var context = new FootballBettingContext();
+
+        context.Database.EnsureDeleted();
+        context.Database.EnsureCreated();
     }
+}
